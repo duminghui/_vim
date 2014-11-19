@@ -18,6 +18,8 @@ Plugin 'chrisbra/csv.vim'
 Plugin 'airblade/vim-gitgutter'
 Plugin 'mhinz/vim-signify'
 Plugin 'chrisbra/changesPlugin'
+Plugin 'vim-pandoc/vim-pandoc'
+Plugin 'vim-pandoc/vim-pandoc-syntax'
 
 "Plugin 'Lokaltog/vim-powerline'
 "
